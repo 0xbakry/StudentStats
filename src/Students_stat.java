@@ -12,6 +12,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
+// @version 1
+
 /**
  *
  * The second component of the Student Registration system.
